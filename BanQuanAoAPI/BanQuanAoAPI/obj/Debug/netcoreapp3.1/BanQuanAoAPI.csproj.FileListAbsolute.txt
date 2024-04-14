@@ -1,0 +1,224 @@
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.exe
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.deps.json
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.runtimeconfig.json
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.pdb
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\staticwebassets\BanQuanAoAPI.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.CopyComplete
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.pdb
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\ASUS\Desktop\API\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.AssemblyReference.cache
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.AssemblyInfoInputs.cache
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.AssemblyInfo.cs
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.CoreCompileInputs.cache
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.pdb
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\libman.json
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.exe
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.deps.json
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.runtimeconfig.json
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.runtimeconfig.dev.json
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.pdb
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\staticwebassets\BanQuanAoAPI.StaticWebAssets.Manifest.cache
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.RazorTargetAssemblyInfo.cache
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.CopyComplete
+C:\DO_AN5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.genruntimeconfig.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\libman.json
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.exe
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.deps.json
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.runtimeconfig.json
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.runtimeconfig.dev.json
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\BanQuanAoAPI.pdb
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.AssemblyReference.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.AssemblyInfoInputs.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.AssemblyInfo.cs
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.CoreCompileInputs.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\staticwebassets\BanQuanAoAPI.StaticWebAssets.Manifest.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.RazorTargetAssemblyInfo.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.csproj.CopyComplete
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.dll
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.pdb
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\BanQuanAoAPI.genruntimeconfig.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\staticwebassets\BanQuanAoAPI.StaticWebAssets.Pack.cache
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.BanQuanAoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.BanQuanAoAPI.props
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.BanQuanAoAPI.props
+C:\Tài Liệu Của 4 Năm Học Không Đàng Hoàng\Các Đồ Án 1 2 3 4 5\Đồ Án 5\doan\BanQuanAoAPI\BanQuanAoAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.BanQuanAoAPI.props
